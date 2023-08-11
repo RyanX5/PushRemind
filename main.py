@@ -10,7 +10,7 @@ from email.mime.text import MIMEText
 def run():
 
 	_id = str(sys.argv[1])
-	password = "athm heez mszu bpja"
+	password = ""
 	subject = "Go Get Your Pushups!"
 
 	_from = "PushRemind"
